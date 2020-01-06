@@ -5,6 +5,7 @@ Rencana Konten
    *framework javascript
    ^vue
    ^react
+   ^angular
 - Fundamental data structure
 - php framework
 ^laravel
