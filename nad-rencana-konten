@@ -3,7 +3,11 @@ Rencana Konten
 - javascript
    *es6
    *framework javascript
+   ^vue
+   
 - Fundamental data structure
 - php framework
+^laravel
 - interview
 - vlog
+-python
