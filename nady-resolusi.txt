@@ -1,0 +1,5 @@
+Halo
+
+resolusi :
+-membuat website menggunakan framework js
+-bekerja si startup
